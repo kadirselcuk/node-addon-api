@@ -208,6 +208,7 @@ See [benchmark/README.md](benchmark/README.md) for more details about running an
 - **[C++ Addons](https://nodejs.org/dist/latest/docs/api/addons.html)**
 - **[N-API](https://nodejs.org/dist/latest/docs/api/n-api.html)**
 - **[N-API - Next Generation Node API for Native Modules](https://youtu.be/-Oniup60Afs)**
+- **[How We Migrated Realm JavaScript From NAN to N-API](https://developer.mongodb.com/article/realm-javascript-nan-to-n-api)**
 
 As node-addon-api's core mission is to expose the plain C N-API as C++
 wrappers, tools that facilitate n-api/node-addon-api providing more
@@ -250,7 +251,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details on our philosophy around
 | Anna Henningsen     | [addaleax](https://github.com/addaleax)               |
 | Chengzhong Wu       | [legendecas](https://github.com/legendecas)           |
 | Gabriel Schulhof    | [gabrielschulhof](https://github.com/gabrielschulhof) |
-| Hitesh Kanwathirtha | [digitalinfinity](https://github.com/digitalinfinity) |
 | Jim Schlight        | [jschlight](https://github.com/jschlight)             |
 | Michael Dawson      | [mhdawson](https://github.com/mhdawson)               |
 | Kevin Eady          | [KevinEady](https://github.com/KevinEady)
@@ -262,6 +262,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details on our philosophy around
 | Arunesh Chandra     | [aruneshchandra](https://github.com/aruneshchandra)   |
 | Benjamin Byholm     | [kkoopa](https://github.com/kkoopa)                   |
 | Jason Ginchereau    | [jasongin](https://github.com/jasongin)               |
+| Hitesh Kanwathirtha | [digitalinfinity](https://github.com/digitalinfinity) |
 | Sampson Gao         | [sampsongao](https://github.com/sampsongao)           |
 | Taylor Woll         | [boingoing](https://github.com/boingoing)             |
 
